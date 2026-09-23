@@ -14,4 +14,4 @@ Les données restent sur l’appareil. Cette version de test n’est ni une cais
 
 Le dépôt distribue uniquement le binaire de test ; le code source n’est pas publié ici.
 
-SHA-256 : 
+SHA-256 : 25b57b1735c0071d6901355d7023ebfb446eb2b1c894d13356047690821b49bc
